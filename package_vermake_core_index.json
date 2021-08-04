@@ -1,0 +1,100 @@
+{
+  "packages": 
+  [
+    {
+      "name":"Yadan",
+      "maintainer":"EDWINE",
+      "websiteURL":"http://www.verimake.com",
+      "email":"zhangzzpcxxy@163.com",
+      "help":
+      {
+        "online":"http://www.verimake.com"
+      },
+      "platforms":
+      [ 
+        {
+          "name":"Yadan",
+          "architecture":"Yadan",
+          "version":"1.0.0",
+          "category":"FPGA",
+          "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.tar.bz2",
+          "archiveFileName":"Yadan_1.0.tar.bz2",
+          "checksum":"SHA-256:f74aa8a01b0ab28856309473262324c2a9149ff195bb68c8c8233cc68e2bf6a9",
+          "size":"4074626",
+          "help":
+          {
+            "online":"http://www.verimake.com"
+          },
+          "boards":
+          [ 
+            {
+              "name":"Yadan_FPGA"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+                "packager": "Yadan",
+                "version": "1.0.0",
+                "name": "Yadan_binsize"
+            },
+
+            {
+                "packager": "Yadan",
+                "version": "1.0.0",
+                "name": "Yadan_download"
+            },
+        
+            {
+              "packager": "Yadan",
+              "version": "1.0.0",
+              "name": "Yadan_compiler"
+            }
+          ]
+        } 
+      ],
+      "tools": 
+      [
+        {
+            "version": "1.0.0",
+            "name": "Yadan_binsize",
+            "systems": [
+              {
+                "host": "i686-mingw32",
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_binsize_1.0.0.tar.bz2",
+                "archiveFileName": "Yadan_binsize_1.0.0.tar.bz2",
+                "checksum": "SHA-256:a7a43656475d90b9a46e264df8fec8b11f82c045a251b86b8b42b84a6292a156",
+                "size": "6343770"
+              }
+            ]
+        },  
+        {
+            "version": "1.0.0",
+            "name": "Yadan_download",
+            "systems": [
+              {
+                "host": "i686-mingw32",
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_download_1.0.0.tar.bz2",
+                "archiveFileName": "Yadan_download_1.0.0.tar.bz2",
+                "checksum": "SHA-256:b9d8e80a3dcb63bb59130ceeb13fddc09f83ff55a54b9cd3061040f1e88ca1ec",
+                "size": "9935372"
+              }
+            ]
+        },
+        {
+            "version": "1.0.0",
+            "name": "Yadan_compiler",
+            "systems": [
+              {
+                "host": "i686-mingw32",
+                "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_compiler_1.0.0.tar.bz2",
+                "archiveFileName": "Yadan_compiler_1.0.0.tar.bz2",
+                "checksum": "SHA-256:fc697661df2042ee5cb3b531aa7b510b7152c128f648c2f36e6fd4cf336898c9",
+                "size": "90481003"
+              }
+            ]
+        }   
+      ]
+    } 
+  ]
+}
