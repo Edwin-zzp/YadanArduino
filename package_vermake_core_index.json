@@ -63,8 +63,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_binsize_1.0.0.tar.bz2",
                 "archiveFileName": "Yadan_binsize_1.0.0.tar.bz2",
-                "checksum": "SHA-256:142db2dd9c45271bfef4aa86874e5e10b8167eb8db7fbbeacfd3b5fcc73f8b97",
-                "size": "6345254"
+                "checksum": "SHA-256:06cb2e9cdadeed1f09f55f397b97b0ae9f08d518c06606eb928ad76c02599a31",
+                "size": "6345380"
               }
             ]
         },  
@@ -76,8 +76,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_download_1.0.0.tar.bz2",
                 "archiveFileName": "Yadan_download_1.0.0.tar.bz2",
-                "checksum": "SHA-256:458e6ee50cfd884fccbbe823f6afc53425dfe59a406984d56e8b8ede8322bd0d",
-                "size": "9935094"
+                "checksum": "SHA-256:9d15f4b9d31990252e4b30f6e83754adf40e6bd9aad6475f1ea54080bbbf4698",
+                "size": "9935034"
               }
             ]
         },
