@@ -19,8 +19,8 @@
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.0.tar.bz2",
           "archiveFileName":"Yadan_1.0.0.tar.bz2",
-          "checksum":"SHA-256:9207821c1fb66b673e83a313d3ef79caba03d3e766e3fcaba7e43b588da01296",
-          "size":"4074841",
+          "checksum":"SHA-256:53b4d1c6494498d0d468a1563b1e642cf8316a5c277b5c9674fdadd76a5df54e",
+          "size":"4074727",
           "help":
           {
             "online":"http://www.verimake.com"
@@ -63,8 +63,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_binsize_1.0.0.tar.bz2",
                 "archiveFileName": "Yadan_binsize_1.0.0.tar.bz2",
-                "checksum": "SHA-256:763b71bfe6e474f2ccd97b409d8c479d40774f74d4fb6cbfc5f63cfe112247ee",
-                "size": "6344723"
+                "checksum": "SHA-256:142db2dd9c45271bfef4aa86874e5e10b8167eb8db7fbbeacfd3b5fcc73f8b97",
+                "size": "6345254"
               }
             ]
         },  
@@ -76,8 +76,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_download_1.0.0.tar.bz2",
                 "archiveFileName": "Yadan_download_1.0.0.tar.bz2",
-                "checksum": "SHA-256:b9d8e80a3dcb63bb59130ceeb13fddc09f83ff55a54b9cd3061040f1e88ca1ec",
-                "size": "9935372"
+                "checksum": "SHA-256:458e6ee50cfd884fccbbe823f6afc53425dfe59a406984d56e8b8ede8322bd0d",
+                "size": "9935094"
               }
             ]
         },
