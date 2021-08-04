@@ -63,8 +63,8 @@
                 "host": "i686-mingw32",
                 "url": "https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_binsize_1.0.0.tar.bz2",
                 "archiveFileName": "Yadan_binsize_1.0.0.tar.bz2",
-                "checksum": "SHA-256:142db2dd9c45271bfef4aa86874e5e10b8167eb8db7fbbeacfd3b5fcc73f8b97",
-                "size": "6345254"
+                "checksum": "SHA-256:763b71bfe6e474f2ccd97b409d8c479d40774f74d4fb6cbfc5f63cfe112247ee",
+                "size": "6344723"
               }
             ]
         },  
