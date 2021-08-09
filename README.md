@@ -17,15 +17,20 @@
 
 #### 使用说明
 
+V1.0.0：
 1.  目前支持Arduino的大部分函数，支持串口，定时器，spi。
 2.  PWM对于所有IO都支持，频率为200Hz
 3.  目前不支持AD和硬件IIC。
 
+V1.0.1：
 
+1、加入IIC支持，使用Wire类，需要手动安装库Wire.zip
+
+2、Wire库下载地址：点击[Wire.zip](https://gitee.com/zhangzzp/yadan-arduino/raw/master/Libraries/Wire.zip)下载 。 使用方法在：https://verimake.com/topics/251
 
 
 #### 即将支持
-1、硬件IIC
+1、硬件IIC (已完成)
 
 2、两路AD
 
