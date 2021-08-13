@@ -18,8 +18,8 @@
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.2.tar.bz2",
           "archiveFileName":"Yadan_1.0.2.tar.bz2",
-          "checksum":"SHA-256:1a858a0d0f1259deecd2482e0cbac779d7cd92f056a5d083f77870177b3915c4",
-          "size":"4079128",
+          "checksum":"SHA-256:33d951174d4fc8ec899538b2f1b9c7ba5fce2726f8b4577248accd637689986a",
+          "size":"4076839",
           "help":
           {
             "online":"http://www.verimake.com"
