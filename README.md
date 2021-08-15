@@ -5,7 +5,7 @@
 
 #### 安装教程
 
-1.  在使用Arduino IDE进行Yadan程序开发时候首先需要安装Yadan board的相关配置文件以及工具。首先打开Arduino IDE，选择File->Preferences，在下图的框内填写Yadan board的配置文件的地址：https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/main/package_vermake_core_index.json
+1.  在使用Arduino IDE进行Yadan程序开发时候首先需要安装Yadan board的相关配置文件以及工具。首先打开Arduino IDE，选择File->Preferences，在下图的框内填写Yadan board的配置文件的地址：https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/main/package_verimake_core_index.json
 
 ![picture 1](images/ba928627bea65906102f654b868636244594bc10484ceae8fc49491c0f67d892.png)  
 
