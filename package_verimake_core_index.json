@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name":"Yadan",
+      "name":"YADAN",
       "maintainer":"EDWINE",
       "websiteURL":"http://www.verimake.com",
       "email":"zhangzzpcxxy@163.com",
@@ -12,14 +12,14 @@
       "platforms":
       [ 
         {
-          "name":"Yadan",
-          "architecture":"Yadan",
+          "name":"YADAN",
+          "architecture":"YADAN",
           "version":"1.0.3",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.3.tar.bz2",
           "archiveFileName":"Yadan_1.0.3.tar.bz2",
-          "checksum":"SHA-256:466f0193fb41fd8bb3471255917a9807eaee9dd97ab6e2ec9d67c8d86303f143",
-          "size":"8097219",
+          "checksum":"SHA-256:1e8ebe3c5c714cc018ec27fd3f311605ed4f1dfb5a8ff628a089e4f2207ad6fb",
+          "size":"8100620",
           "help":
           {
             "online":"http://www.verimake.com"
@@ -33,27 +33,27 @@
           "toolsDependencies":
           [
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_binsize"
             },
 
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_download"
             },
         
             {
-              "packager": "Yadan",
+              "packager": "YADAN",
               "version": "1.0.0",
               "name": "Yadan_compiler"
             }
           ]
         },
         {
-          "name":"Yadan",
-          "architecture":"Yadan",
+          "name":"YADAN",
+          "architecture":"YADAN",
           "version":"1.0.2",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.2.tar.bz2",
@@ -73,27 +73,27 @@
           "toolsDependencies":
           [
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_binsize"
             },
 
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_download"
             },
         
             {
-              "packager": "Yadan",
+              "packager": "YADAN",
               "version": "1.0.0",
               "name": "Yadan_compiler"
             }
           ]
         },
         {
-          "name":"Yadan",
-          "architecture":"Yadan",
+          "name":"YADAN",
+          "architecture":"YADAN",
           "version":"1.0.1",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.1.tar.bz2",
@@ -113,27 +113,27 @@
           "toolsDependencies":
           [
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_binsize"
             },
 
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_download"
             },
         
             {
-              "packager": "Yadan",
+              "packager": "YADAN",
               "version": "1.0.0",
               "name": "Yadan_compiler"
             }
           ]
         },
         {
-          "name":"Yadan",
-          "architecture":"Yadan",
+          "name":"YADAN",
+          "architecture":"YADAN",
           "version":"1.0.0",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.0.tar.bz2",
@@ -153,19 +153,19 @@
           "toolsDependencies":
           [
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_binsize"
             },
 
             {
-                "packager": "Yadan",
+                "packager": "YADAN",
                 "version": "1.0.0",
                 "name": "Yadan_download"
             },
         
             {
-              "packager": "Yadan",
+              "packager": "YADAN",
               "version": "1.0.0",
               "name": "Yadan_compiler"
             }
