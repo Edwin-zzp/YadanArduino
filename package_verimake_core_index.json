@@ -3,11 +3,11 @@
     {
       "name":"YADAN",
       "maintainer":"EDWINE",
-      "websiteURL":"http://www.verimake.com",
+      "websiteURL":"https://gitee.com/verimake/yadan_arduino",
       "email":"zhangzzpcxxy@163.com",
       "help":
       {
-        "online":"http://www.verimake.com"
+        "online":"http://docs.yadanboard.com/"
       },
       "platforms":
       [ 
@@ -22,7 +22,7 @@
           "size":"8100578",
           "help":
           {
-            "online":"http://www.verimake.com"
+            "online":"http://docs.yadanboard.com/"
           },
           "boards":
           [ 
@@ -62,7 +62,7 @@
           "size":"4077390",
           "help":
           {
-            "online":"http://www.verimake.com"
+            "online":"http://docs.yadanboard.com/"
           },
           "boards":
           [ 
@@ -102,7 +102,7 @@
           "size":"4076692",
           "help":
           {
-            "online":"http://www.verimake.com"
+            "online":"http://docs.yadanboard.com/"
           },
           "boards":
           [ 
@@ -142,7 +142,7 @@
           "size":"4073890",
           "help":
           {
-            "online":"http://www.verimake.com"
+            "online":"http://docs.yadanboard.com/"
           },
           "boards":
           [ 
