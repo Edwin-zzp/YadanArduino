@@ -13,7 +13,7 @@
       [ 
         {
           "name":"YADAN",
-          "architecture":"YADAN",
+          "architecture":"YADAN", 
           "version":"1.0.3",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.3.tar.bz2",
