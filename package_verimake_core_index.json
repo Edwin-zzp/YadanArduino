@@ -14,6 +14,46 @@
         {
           "name":"YADAN",
           "architecture":"YADAN", 
+          "version":"1.0.4",
+          "category":"FPGA",
+          "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.4.tar.bz2",
+          "archiveFileName":"Yadan_1.0.4.tar.bz2",
+          "checksum":"SHA-256:755b92b887de4fc68a4b0b790336097abf6d3d774d2b6324abdba270342d811b",
+          "size":"8099138",
+          "help":
+          {
+            "online":"http://docs.yadanboard.com/"
+          },
+          "boards":
+          [ 
+            {
+              "name":"Yadan_FPGA"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+                "packager": "YADAN",
+                "version": "1.0.0",
+                "name": "Yadan_binsize"
+            },
+
+            {
+                "packager": "YADAN",
+                "version": "1.0.0",
+                "name": "Yadan_download"
+            },
+        
+            {
+              "packager": "YADAN",
+              "version": "1.0.0",
+              "name": "Yadan_compiler"
+            }
+          ]
+        },
+        {
+          "name":"YADAN",
+          "architecture":"YADAN", 
           "version":"1.0.3",
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/Edwin-zzp/YadanArduino/master/Yadan_1.0.3.tar.bz2",
